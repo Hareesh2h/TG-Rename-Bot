@@ -11,7 +11,7 @@ An Open Source Rename Telegram RoBot
 
 #### The Easy Way
 
-**Watch our Video for Create own Bot** - 👉 https://youtu.be/yYHrSnuYXpA
+**Watch our Video for Create own Bot** - 
 
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
